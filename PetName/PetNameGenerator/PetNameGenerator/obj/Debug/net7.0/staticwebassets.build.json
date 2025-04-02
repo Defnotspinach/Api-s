@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5GU9aiXLpVe3NGA3o06m3GlnX6zuNJlopwNE8KdWn8Q=",
+  "Source": "PetNameGenerator",
+  "BasePath": "_content/PetNameGenerator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
